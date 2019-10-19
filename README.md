@@ -1,1 +1,1 @@
-Refer from * [GitHub project page](https://shawnteoh.github.io/matjek/projects/)
+Refer from http://jekyllthemes.org/themes/matjek/
