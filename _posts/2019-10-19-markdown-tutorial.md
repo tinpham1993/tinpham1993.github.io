@@ -106,8 +106,10 @@ Trong Markdown, nếu xuống dòng một lần (sử dụng Enter 1 lần) thì
 
 Nếu muốn ở kết quả hiển thị, các dòng không bị ngăn cách bởi các dòng trống (soft break) thì ở cuối mỗi dòng trong Markdown, ta sử dụng 2 dấu cách trước khi xuống dòng. Vì dấu cách không thể nhìn thấy được nên trong ví dụ mình sử dụng <space> thay cho dấu cách.
 VD:
+{% highlight python linenos %}
 Con cá đối nằm trên cối đá<space><space>
 Con mèo cái nằm trên mái kèo<space><space>
+{% endhighlight %}
 
 Link tham khảo:
 https://www.markdowntutorial.com/
