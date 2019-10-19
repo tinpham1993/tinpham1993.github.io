@@ -20,7 +20,7 @@ baseurl: ""
 url: "https://tinpham1993.github.io"
 permalink: /:year/:month/:day/:title
 repository:
-paginate:
+paginate: 5
 
 # MatJek specific configurations
 github_profile: "https://github.com/tinpham1993"
