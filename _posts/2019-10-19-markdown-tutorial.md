@@ -44,7 +44,7 @@ Có 2 loại liên kết khác nhau trong Markdown nhưng cách thực hiện c�
 VD: ```[Visit GitHub!](www.github.com)```
 
     Các từ trong Liên kết cũng có thể in nghiêng và in đậm. Headers cũng có thể là 1 liên kết. 
-    VD1: ```[You're **really, really** going to want to see this.](www.github.com)```
+    VD1: ```[You're **really, really** going to want to see this.](www.github.com)```  
     VD2: ```###[The Latest News from the BBC](www.github.com)```
 
 * **Loại thứ 2: _reference link_.** Loại đường dẫn này không sử dụng trực tiếp đường dẫn như inline link mà sẽ tham chiếu đến một nơi khác trong văn bản, tại đó sẽ có đường dẫn cụ thể. Việc này giúp sử dụng lại một đường dẫn nhiều lần, từ đó sẽ dễ dàng hơn cho việc cập nhật lại đường dẫn. Đọc ví dụ sau để hiểu rõ hơn.  
@@ -71,6 +71,7 @@ Cú pháp để tạo hình ảnh trong Markdown tương tự như tạo liên k
        ...
        [Father]: http://octodex.github.com/images/founding-father.jpg
    ```
+
 **6. Trích dẫn (Blockquotes)**  
 Để tạo ra một đoạn trích dẫn trong Markdown, đặt dấu lớn hơn (**>**) ("greater than" caret) ở đầu đoạn đó.  
 VD:
@@ -95,10 +96,10 @@ Có 2 loại danh sách trong Markdown: **không có thứ tự** (unordered/lis
 * **Tạo danh sách không có thứ tự:** bắt đầu mỗi mục của danh sách với dấu sao (*) (asterisk).  
 VD:  
  ```
- * Milk
- * Eggs
- * Salmon
- * Butter
+     * Milk
+     * Eggs
+     * Salmon
+     * Butter
  ```
 
 * **Tạo danh sách có thứ tự:** bắt đầu mỗi danh mục bằng số đếm.  
@@ -127,7 +128,8 @@ VD:
 **8. Đoạn văn (Paragraphs)**  
 Trong Markdown, nếu xuống dòng một lần (sử dụng Enter 1 lần) thì kết quả hiển thị các dòng vẫn sẽ nằm trên cùng một dòng. Tuy nhiên, nếu xuống dòng 2 lần trong Markdown ( sử dụng Enter 2 lần) thì kết quả hiển thị các dòng sẽ bị ngăn các bởi 1 dòng trống. Đây chính là **_hard break_ (các dòng cách nhau bởi 1 dòng trống)**.  
 
-Nếu muốn ở kết quả hiển thị, **các dòng không bị ngăn cách bởi các dòng trống (_soft break_)** thì ở cuối mỗi dòng trong Markdown, ta sử dụng 2 dấu cách trước khi xuống dòng. Vì dấu cách không thể nhìn thấy được nên trong ví dụ mình sử dụng <space> thay cho dấu cách.  
+Nếu muốn ở kết quả hiển thị, **các dòng không bị ngăn cách bởi các dòng trống (_soft break_)** thì ở cuối mỗi dòng trong Markdown, ta sử dụng 2 dấu cách trước khi xuống dòng. Vì dấu cách không thể nhìn thấy được nên trong ví dụ mình sử dụng <space> thay cho dấu cách.
+
 VD:  
 ```
 Con cá đối nằm trên cối đá<space><space>
@@ -145,18 +147,18 @@ Con mèo cái nằm trên mái kèo<space><space>
         \```
     ```
 
-    * VD2: \``` Lời chú thích \```
+    * VD2: \`\`\` Lời chú thích \`\`\`
 
 * **Cú pháp highlight**: sử dụng để trích dẫn code trong ngôn ngữ khác  
     * VD:  
     ```
-       {% highlight python linenos %}
+       \{% highlight python linenos %}
        def print_hi(name):
          print("Hi, {}".format(name))
 
        print_hi('Tom')
        # prints 'Hi, Tom' to STDOUT.
-       {% endhighlight %}
+       \{% endhighlight %}
     ```
 
 
