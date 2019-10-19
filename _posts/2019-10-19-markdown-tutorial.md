@@ -14,7 +14,7 @@ Nếu bạn có 10 phút, bạn có thể học được Markdown!
 Trong mỗi bài học, bạn sẽ được giới thiệu các khái niệm riêng lẻ trong Markdown. Sau đó sẽ có vài bài tập nho nhỏ với những kiến thức mới đó!
 
 In nghiêng và in đậm (Italics and Bold)
-Để in nghiêng cụm từ: kẹp cụm từ đó giữa các dấu gạch dưới (_) (underscore). VD: _this_
+Để in nghiêng cụm từ: kẹp cụm từ đó giữa các dấu gạch dưới (_) (underscore). VD: {% highlight python linenos %}_this_{% endhighlight %}
 Để in đậm cụm từ: kẹp cụm từ giữa các cụm 2 dấu sao (**) (two asterisks). VD: **really**
 Có thể kết hợp vừa in nghiêng, vừa in đậm cụm từ. VD: **_This is a_ legendary**
 
@@ -22,8 +22,8 @@ Tiêu đề (Headers)
 Headers được sử dụng thường xuyên trên websites, các bài viết tạp chí, thông báo... nhằm mục đích thu hút sự chú ý.
 Có 6 loại headers trong Markdown với cỡ chữ giảm dần.
 Để tạo headers trong Markdown:  bắt đầu dòng với các dấu thăng (#) (hash mark). 1 dấu # <-> level 1, cỡ chữ lớn nhất, 6 dấu thăng <-> level 6, cỡ chữ bé nhất.
-VD: #Header 1 - biggest size
-    ###### Header 6 - smallest size
+VD: {% highlight python linenos %}#Header 1 - biggest size
+    ###### Header 6 - smallest size{% endhighlight %}
 
 Các từ trong Headers cũng có thể in nghiêng và in đậm bằng cách như đã nói ở mục 2.
 
@@ -109,4 +109,6 @@ VD:
 Con cá đối nằm trên cối đá<space><space>
 Con mèo cái nằm trên mái kèo<space><space>
 
-Link tham khảo (tiếng Anh): https://www.markdowntutorial.com/
+Link tham khảo:
+https://www.markdowntutorial.com/
+https://namnguyen.gitbooks.io/hoc-su-dung-markdown/content/index.html
