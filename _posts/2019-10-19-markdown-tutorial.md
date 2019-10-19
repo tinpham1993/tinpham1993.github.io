@@ -95,12 +95,12 @@ Trong trích dẫn vẫn có thể in đậm và in nghiêng ký tự, chèn hì
 Có 2 loại danh sách trong Markdown: **không có thứ tự** (unordered/lists with bullet points) và **có thứ tự** (ordered/lists with numbers).  
 * **Tạo danh sách không có thứ tự:** bắt đầu mỗi mục của danh sách với dấu sao (*) (asterisk).  
 VD:  
-     ```
-     * Milk
-     * Eggs
-     * Salmon
-     * Butter
-    ```
+```
+         * Milk
+         * Eggs
+         * Salmon
+         * Butter
+```
 
 * **Tạo danh sách có thứ tự:** bắt đầu mỗi danh mục bằng số đếm.  
 VD:  
