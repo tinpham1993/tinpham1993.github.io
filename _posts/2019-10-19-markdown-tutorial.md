@@ -95,12 +95,12 @@ Trong trích dẫn vẫn có thể in đậm và in nghiêng ký tự, chèn hì
 Có 2 loại danh sách trong Markdown: **không có thứ tự** (unordered/lists with bullet points) và **có thứ tự** (ordered/lists with numbers).  
 * **Tạo danh sách không có thứ tự:** bắt đầu mỗi mục của danh sách với dấu sao (*) (asterisk).  
 VD:  
- ```
+     ```
      * Milk
      * Eggs
      * Salmon
      * Butter
- ```
+    ```
 
 * **Tạo danh sách có thứ tự:** bắt đầu mỗi danh mục bằng số đếm.  
 VD:  
@@ -147,18 +147,18 @@ Con mèo cái nằm trên mái kèo<space><space>
         \```
     ```
 
-    * VD2: \`\`\` Lời chú thích \`\`\`
+    * VD2: **\`\`\` Lời chú thích \`\`\`**
 
 * **Cú pháp highlight**: sử dụng để trích dẫn code trong ngôn ngữ khác  
     * VD:  
     ```
-       \{% highlight python linenos %}
+       \{\% highlight python linenos \%}
        def print_hi(name):
          print("Hi, {}".format(name))
 
        print_hi('Tom')
        # prints 'Hi, Tom' to STDOUT.
-       \{% endhighlight %}
+       \{\% endhighlight \%}
     ```
 
 
