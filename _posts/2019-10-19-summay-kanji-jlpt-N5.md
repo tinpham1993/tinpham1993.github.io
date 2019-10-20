@@ -11,6 +11,7 @@ Usefull link to learn Kanji for JLPT N5:
 https://www.youtube.com/watch?v=OlnKrb0fXJ0&t=9291s
 
 Summary 180 Kanji for JPLP-N5:
+
 |Bài 1:      | Ví dụ          |
 |------------|---------------:|
 |一 : NHẤT   |                |
