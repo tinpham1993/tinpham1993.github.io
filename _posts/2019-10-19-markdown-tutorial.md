@@ -4,6 +4,7 @@ title:  "Làm quen với ngôn ngữ Markdown"
 date:   2019-10-19 02:30:13 +0800
 categories: Developer
 tags: Dev Web Markdown
+comments: 5
 ---
 
 **1. Giới thiệu (Introduction):**  
@@ -143,7 +144,7 @@ Con mèo cái nằm trên mái kèo<space><space>
         \```
             Dòng chú thích 1
             ...
-            Dòng dòng chú thích n
+            Dòng chú thích n
         \```
     ```
 
