@@ -63,21 +63,21 @@ VD:
 * **Tạo danh sách không có thứ tự:** bắt đầu mỗi mục của danh sách với dấu sao (*) (asterisk).  
 VD:  
 ```
-     * Milk
-       * Chocolate Milk
-       * Plain Milk
-     * Eggs
-     * Salmon
+         * Milk
+           * Chocolate Milk
+           * Plain Milk
+         * Eggs
+         * Salmon
 ```
 
 * **Tạo danh sách có thứ tự:** bắt đầu mỗi danh mục bằng số đếm.  
 VD:  
  ```
- 1. Xoay bánh
- 2. Chấm sữa
- 3. Liếm kem
-   * Cũng tạm được
-   * Ngon đấy
+     1. Xoay bánh
+     2. Chấm sữa
+     3. Liếm kem
+       * Cũng tạm được
+       * Ngon đấy
  ```
  
 **8. Đoạn văn (Paragraphs)**  
@@ -102,7 +102,7 @@ VD:
 
 VD: **\`\`\` Lời chú thích \`\`\`**
 
-Cũng có lúc sử dụng dấu tab trước mỗi dòng để thể hiển chú thích.
+Cũng có lúc sử dụng dấu tab trước mỗi dòng để thể hiển chú thích.  
 VD:
 ```
 <tab> Dòng chú thích 1
@@ -111,7 +111,7 @@ VD:
 
 **10. Cú pháp highlight**:  
 Sử dụng để trích dẫn code trong ngôn ngữ khác như ruby, python, C...  
-VD: Đối với python và có đánh số dòng, bắt đầu với **{% highlight python linenos %}** và kết thúc bởi **{% endhighlight %}**  
+VD: Đối với python và có đánh số dòng, bắt đầu với ```{% highlight python linenos %}``` và kết thúc bởi ```{% endhighlight %}``` 
 
   ```
      \{\% highlight python linenos \%}
