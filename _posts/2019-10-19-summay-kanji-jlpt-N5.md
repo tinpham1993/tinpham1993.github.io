@@ -4,6 +4,7 @@ title:  "Learn Kanji for JLPT N5"
 date:   2019-10-19 01:30:13 +0800
 categories: Nihongo
 tags: JLPT-N5 Kanji
+comment: 5
 ---
 
 Usefull link to learn Kanji for JLPT N5:
@@ -30,3 +31,12 @@ Summary 180 Kanji for JPLP-N5:
 |時 : THỜI  |来 : LAI   |見 : KIẾN  |茶 : TRÀ   |
 |年 : NIÊN  |校 : HIỆU  |聞 : VĂN   |物 : VẬT   |
 |本 : BẢN   |車 : XA    |新 : TÂN   |花 : HOA   |
+
+|Bài 9      |Bài 10     |Bài 11     |Bài 12     |
+|-----------|-----------|-----------|-----------|
+|買 : MẠI   |田 : ĐIỀN  |書 : THƯ   |肉 : NHỤC  |
+|読 : ĐỘC   |町 : ĐINH  |食 : THỰC  |魚 : NGƯ   |
+|手 : THỦ   |行 : HÀNH  |飲 : ẨM    |牛 : NGƯU  |
+|少 : THIỂU |来 : LAI   |見 : KIẾN  |茶 : TRÀ   |
+|間 : GIAN  |校 : HIỆU  |聞 : VĂN   |物 : VẬT   |
+|内 : NỘI   |車 : XA    |新 : TÂN   |花 : HOA   |
