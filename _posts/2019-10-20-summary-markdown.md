@@ -111,8 +111,8 @@ VD:
 
 **10. Cú pháp highlight**:  
 Sử dụng để trích dẫn code trong ngôn ngữ khác như ruby, python, C...  
-Bắt đầu với **{% highlight python [linenos] %}** và kết thúc bởi **{% endhighlight %}**  
-VD:  
+VD: Đối với python và có đánh số dòng, bắt đầu với **{% highlight python linenos %}** và kết thúc bởi **{% endhighlight %}**  
+
   ```
      \{\% highlight python linenos \%}
      def print_hi(name):
