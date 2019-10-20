@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sử dụng ngôn ngữ Markdown - Summary"
+title:  "Sử dụng ngôn ngữ Markdown - Tổng hợp"
 date:   2019-10-20 02:30:13 +0800
 categories: Developer
 tags: Dev Web Markdown
@@ -111,7 +111,7 @@ VD:
 
 **10. Cú pháp highlight**:  
 Sử dụng để trích dẫn code trong ngôn ngữ khác như ruby, python, C...  
-Bắt đầu với **{% highlight <ngôn ngữ thể hiện> [linenos] %}** và kết thúc bởi **{% endhighlight %}**  
+Bắt đầu với **{% highlight python [linenos] %}** và kết thúc bởi **{% endhighlight %}**  
 VD:  
   ```
      \{\% highlight python linenos \%}
