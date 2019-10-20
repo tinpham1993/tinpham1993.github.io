@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Learn Kanji for JLPT N5"
+title:  "Kanji cần thiết cho JLPT N5"
 date:   2019-10-19 01:30:13 +0800
 categories: Nihongo
 tags: JLPT-N5 Kanji
 comment: 5
 ---
 
-Usefull link to learn Kanji for JLPT N5:
+Trên trang youtube của [thầy Dũng Mori](https://dungmori.com) có một clip tổng hợp Kanji N5 rất hữu ích cho những bạn mới bắt đầu học tiếng Nhật.
 
-https://www.youtube.com/watch?v=OlnKrb0fXJ0&t=9291s
+[**6 tiếng 51 phút - HỌC HẾT 118 CHỮ HÁN CHO NGƯỜI MỚI BẮT ĐẦU - kiến thức chữ Hán cơ bản N5**](https://youtu.be/OlnKrb0fXJ0)
 
-Summary 180 Kanji for JPLP-N5:
+Theo đó, chương trình N5 có 118 chữ Hán cần phải học và mình tổng kết thành bảng sau cho tiện học tập.
 
 |Bài 1     |Bài 2      |Bài 3      |Bài 4      |
 |-----------|-----------|-----------|-----------|
@@ -21,7 +21,7 @@ Summary 180 Kanji for JPLP-N5:
 |四 : TỨ    |百 : BÁCH  |水 : THỦY   |学 : HỌC   |
 |五 : NGŨ   |千 : THIÊN |木 : MỘC    |方 : PHƯƠNG|
 |六 : LỤC   |万 : VẠN   |金 : KIM    |何 : HÀ    |
-|七 : THẤT  |円 : VIÊN  |土 : THỔ    |           |
+|七 : THẤT  |円 : VIÊN  |土 : THỔ    |-          |
 
 |Bài 5      |Bài 6      |Bài 7      |Bài 8      |
 |-----------|-----------|-----------|-----------|
@@ -34,12 +34,12 @@ Summary 180 Kanji for JPLP-N5:
 
 |Bài 9      |Bài 10     |Bài 11     |Bài 12     |
 |-----------|-----------|-----------|-----------|
-|買 : MẠI   |田 : ĐIỀN  |           |中 : TRUNG |
-|読 : ĐỘC   |町 : ĐINH  |           |外 : NGOẠI |
-|手 : THỦ   |電 : ĐIỆN  |           |下 : HẠ    |
-|少 : THIỂU |気 : KHÍ   |           |上 : THƯỢNG|
-|間 : GIAN  |山 : SƠN   |           |左 : TẢ    |
-|内 : NỘI   |川 : XUYÊN |           |右 : HỮU   |
+|買 : MẠI   |田 : ĐIỀN  |-          |中 : TRUNG |
+|読 : ĐỘC   |町 : ĐINH  |-          |外 : NGOẠI |
+|手 : THỦ   |電 : ĐIỆN  |-          |下 : HẠ    |
+|少 : THIỂU |気 : KHÍ   |-          |上 : THƯỢNG|
+|間 : GIAN  |山 : SƠN   |-          |左 : TẢ    |
+|内 : NỘI   |川 : XUYÊN |-          |右 : HỮU   |
 
 |Bài 13     |Bài 14     |Bài 15     |Bài 16     |
 |-----------|-----------|-----------|-----------|
@@ -52,9 +52,10 @@ Summary 180 Kanji for JPLP-N5:
 
 |Bài 17     |Bài 18     |Bài 19     |Bài 20     |
 |-----------|-----------|-----------|-----------|
-|長 : TRƯỜNG|男 : NAM   |名: DANH   |出 : XUẤT  |
-|明 : MINH  |女 : NỮ    |音: ÂM     |入 : NHẬP  |
-|暗 : ÁM    |子 : TỬ    |字: TỰ     |立 : LẬP   |
-|高 : CAO   |父 : PHỤ   |雨: VŨ     |言 : NGÔN  |
-|安 : AN    |母 : MẪU   |寺: TỰ     |話 : THOẠI |
-|多 : ĐA    |友 : HỮU   |米: MỄ     |力 : LỰC   |
+|長 : TRƯỜNG|東 : ĐÔNG  |体: THỂ    |竹 : TRÚC  |
+|明 : MINH  |西 : TÂY   |目: MỤC    |貝 : BỐI   |
+|暗 : ÁM    |南 : NAM   |耳: NHĨ    |林 : LÂM   |
+|元 : NGUYÊN|北 : BẮC   |口: KHẨU   |森 : SÂM   |
+|好 : HẢO   |夕 : TỊCH  |鳥: ĐIỂU   |畑 : (không có) |
+|足 : TÚC   |石 : THẠCH |犬: KHUYỂN |門 : MÔN   |
+|-          |-          |-         |岩 : NHAM  | 
