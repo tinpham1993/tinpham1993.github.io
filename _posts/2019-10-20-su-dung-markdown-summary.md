@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Sử dụng ngôn ngữ Markdown - Summary"
-date:   2019-10-19 02:30:13 +0800
+date:   2019-10-20 02:30:13 +0800
 categories: Developer
 tags: Dev Web Markdown
+comments: 5
 ---
 
 **1. Markdown online:**  
@@ -122,4 +123,4 @@ VD:
      \{\% endhighlight \%}
   ```
   
-  **xx. Có cái gì mới sẽ thêm vào sau...**
+  **11. Có cái gì mới sẽ thêm vào sau...**
