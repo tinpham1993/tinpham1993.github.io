@@ -73,11 +73,11 @@ VD:
 * **Tạo danh sách có thứ tự:** bắt đầu mỗi danh mục bằng số đếm.  
 VD:  
  ```
-     1. Xoay bánh
-     2. Chấm sữa
-     3. Liếm kem
-       * Cũng tạm được
-       * Ngon đấy
+         1. Xoay bánh
+         2. Chấm sữa
+         3. Liếm kem
+           * Cũng tạm được
+           * Ngon đấy
  ```
  
 **8. Đoạn văn (Paragraphs)**  
@@ -111,16 +111,16 @@ VD:
 
 **10. Cú pháp highlight**:  
 Sử dụng để trích dẫn code trong ngôn ngữ khác như ruby, python, C...  
-VD: Đối với python và có đánh số dòng, bắt đầu với ```{% highlight python linenos %}``` và kết thúc bởi ```{% endhighlight %}``` 
+VD: Đối với python và có đánh số dòng (lưu ý bỏ đi các dấu '\' ở trước '%'  
 
   ```
-     \{\% highlight python linenos \%}
+     {\% highlight python linenos \%}
      def print_hi(name):
        print("Hi, {}".format(name))
 
      print_hi('Tom')
      # prints 'Hi, Tom' to STDOUT.
-     \{\% endhighlight \%}
+     {\% endhighlight \%}
   ```
   
   **11. Có cái gì mới sẽ thêm vào sau...**
