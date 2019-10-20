@@ -36,7 +36,7 @@ Summary 180 Kanji for JPLP-N5:
 |-----------|-----------|-----------|-----------|
 |買 : MẠI   |田 : ĐIỀN  |書 : THƯ   |肉 : NHỤC  |
 |読 : ĐỘC   |町 : ĐINH  |食 : THỰC  |魚 : NGƯ   |
-|手 : THỦ   |行 : HÀNH  |飲 : ẨM    |牛 : NGƯU  |
-|少 : THIỂU |来 : LAI   |見 : KIẾN  |茶 : TRÀ   |
-|間 : GIAN  |校 : HIỆU  |聞 : VĂN   |物 : VẬT   |
-|内 : NỘI   |車 : XA    |新 : TÂN   |花 : HOA   |
+|手 : THỦ   |電 : ĐIỆN  |飲 : ẨM    |牛 : NGƯU  |
+|少 : THIỂU |気 : KHÍ   |見 : KIẾN  |茶 : TRÀ   |
+|間 : GIAN  |山 : SƠN   |聞 : VĂN   |物 : VẬT   |
+|内 : NỘI   |川 : XUYÊN |新 : TÂN   |花 : HOA   |
