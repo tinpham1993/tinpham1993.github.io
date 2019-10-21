@@ -3,7 +3,7 @@ layout: post
 title:  "Sử dụng ngôn ngữ Markdown - Tổng hợp"
 date:   2019-10-20 02:30:13 +0800
 categories: Developer
-tags: Dev Web Markdown
+tags: Web Markdown
 comments: 5
 ---
 
