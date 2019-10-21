@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Loggerhead Sea Turtle - Kamiya Satoshi"
+date:   2018-07-14 01:30:13 +0800
+categories: Origami
+tags: turtle Kamiya-Satoshi
+comments: 5
+---
+Ở bài viết này mình sẽ đưa ra một số ví dụ về Javascript dùng để tham khảo.
+
+#1. Thay đổi chữ khi click chuột vào:
+
+Lợi ích: có thể sử dụng như một dạng flashcard hỗ trợ cho việc học từ vựng.
+
+{% highlight html linenos %}
+<p id="demo" onclick="myFunction('đồ ăn', 'tabemono')">đồ ăn</p>
+
+<script>
+function myFunction(word1, word2) {
+  var text;
+  if (document.getElementById("demo").innerHTML == word1){
+    document.getElementById("demo").innerHTML = word2;
+  }
+  else
+  {
+    document.getElementById("demo").innerHTML = word1;
+  }
+}
+</script>
+
+</body>
+</html>
+{% endhighlight %}
