@@ -3,7 +3,7 @@ layout: post
 title:  "Làm quen với ngôn ngữ Markdown"
 date:   2019-10-19 02:30:13 +0800
 categories: Developer
-tags: Dev Web Markdown
+tags: Web Markdown
 comments: 5
 ---
 
