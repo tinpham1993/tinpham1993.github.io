@@ -122,5 +122,15 @@ VD: Đối với python và có đánh số dòng (lưu ý bỏ đi các dấu '
      # prints 'Hi, Tom' to STDOUT.
      {\% endhighlight \%}
   ```
-  
-  **11. Có cái gì mới sẽ thêm vào sau...**
+ **11. Vẽ bảng:**   
+Các cột được tách nhau bằng dấu ngăn thẳng đứng | và header được tách với nội dung bằng dấu gạch ngang -.  
+VD:  
+```
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+```
+Trong markdown hình như không merge cell được (?)
+  **12. Có cái gì mới sẽ thêm vào sau...**
