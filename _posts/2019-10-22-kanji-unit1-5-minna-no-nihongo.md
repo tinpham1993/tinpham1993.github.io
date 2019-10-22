@@ -5,6 +5,7 @@ date:   2019-10-22 06:30:13 +0800
 categories: Nihongo
 tags: JLPT-N5 Kanji
 ---
+
 ** Tổng hợp Kanji từ bài 1 đến bài 5 - Minna no Nihongo**
 
 |**Bài 1**|||
@@ -15,5 +16,6 @@ tags: JLPT-N5 Kanji
 |あの人 - NHÂN           |学生 - HỌC SINH        |病院 - BỆNH VIỆN       |~から来ました。 - LAI     | 
 |あの方 - PHƯƠNG         |会社員 - HỘI XÃ VIÊN   |電気 - ĐIỆN KHÍ        |韓国 - HÀN QUỐC        |
 |皆さん - GIAI           |社員 - XÃ VIÊN         |~歳 - ~TUẾ            |中国 - TRUNG QUỐC       |
-|〜君 - QUÂN            |銀行員 - NGÂN HÀNH VIÊN|何歳 - NHẤT TUẾ        |日本 - NHẬT BẢN        |
+|〜君 - QUÂN            |銀行員 - NGÂN HÀNH VIÊN |何歳 - HÀ TUẾ          |日本 - NHẬT BẢN        |
+
 
