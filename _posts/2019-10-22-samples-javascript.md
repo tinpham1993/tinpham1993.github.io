@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Loggerhead Sea Turtle - Kamiya Satoshi"
-date:   2018-07-14 01:30:13 +0800
-categories: Origami
-tags: turtle Kamiya-Satoshi
+title:  "Một số ví dụ về Javascript"
+date:   2019-10-22 02:30:13 +0800
+categories: Developer
+tags: Javascript Web
 comments: 5
 ---
 Ở bài viết này mình sẽ đưa ra một số ví dụ về Javascript dùng để tham khảo.
 
-#1. Thay đổi chữ khi click chuột vào:
+**1. Thay đổi chữ khi click chuột vào:**
 
 Lợi ích: có thể sử dụng như một dạng flashcard hỗ trợ cho việc học từ vựng.
 
