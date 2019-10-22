@@ -126,11 +126,12 @@ VD: Đối với python và có đánh số dòng (lưu ý bỏ đi các dấu '
 Các cột được tách nhau bằng dấu ngăn thẳng đứng | và header được tách với nội dung bằng dấu gạch ngang -.  
 VD:  
 ```
-| Tables        | Are           | Cool  |
+| Column 1      | Column 2      | Col 3 |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-```
+| hello         | right-aligned | $6900 |
+| is            | me            |   $52 |
+| this          | you're looki..|    $9 |
+```  
 Trong markdown hình như không merge cell được (?)
+
   **12. Có cái gì mới sẽ thêm vào sau...**
