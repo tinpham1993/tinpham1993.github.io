@@ -26,3 +26,12 @@ tags: JLPT-N5 Kanji
 
 |**Bài 3**|||
 |---|---|---|---|
+|教室 - GIÁO THẤT|お手洗い - THỦ TẨY|売り場 - MẠI TRƯỜNG|千 - THIÊN          |
+|食堂 - THỰC ĐƯỜNG|階段 - GIAI ĐOẠN|地下 - ĐỊA HẠ|万 - VẠN                 |
+|事務所 - SỰ VỤ SỞ|[お]国 - QUỐC|~階 - GIAI|[~を]見せてください - KIẾN           |
+|会議室 - HỘI NGHỊ THẤT|会社 - HỘI XÃ|何階 - HÀ GIAI|新大坂 - TÂN ĐẠI PHẢN  |
+|受付 - THỤ PHÓ|電話 - ĐIỆN THOẠI|円 - VIÊN|                              |
+|部屋 - BỘ ỐC|靴 - NGOA|百 - BÁCH|                                       |
+
+|**Bài 4**|||
+|---|---|---|---|
