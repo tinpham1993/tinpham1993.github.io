@@ -6,7 +6,7 @@ categories: Nihongo
 tags: JLPT-N5 Kanji
 ---
 
-** Tổng hợp Kanji từ bài 1 đến bài 5 - Minna no Nihongo**
+**Tổng hợp Kanji từ bài 1 đến bài 5 - Minna no Nihongo**
 
 |**Bài 1**|||
 |---|---|---|---|
@@ -18,4 +18,11 @@ tags: JLPT-N5 Kanji
 |皆さん - GIAI           |社員 - XÃ VIÊN         |~歳 - ~TUẾ            |中国 - TRUNG QUỐC       |
 |〜君 - QUÂN            |銀行員 - NGÂN HÀNH VIÊN |何歳 - HÀ TUẾ          |日本 - NHẬT BẢN        |
 
+|**Bài 2**|||
+|---|---|---|---|
+|本 - BẢN/BỔN|新聞 - TÂN VĂN|鉛筆 - DUYÊN BÚT|自動車 - TỰ ĐỘNG XA|
+|辞書 - TỪ THƯ|手帳 - THỦ TRƯƠNG|時計 - THỜI KẾ|違います - VI     |
+|雑誌 - TẠP CHÍ|名刺 - DANH THÍCH|傘 - TẢN|ほんの気持ち - KHÍ TRÌ  |
 
+|**Bài 3**|||
+|---|---|---|---|
