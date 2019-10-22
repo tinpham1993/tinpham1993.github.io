@@ -6,3 +6,4 @@ categories: Nihongo
 tags: JLPT-N5 Kanji
 ---
 ** Tổng hợp Kanji từ bài 1 đến bài 5 - Minna no Nihongo**
+|Bài 1                   |
