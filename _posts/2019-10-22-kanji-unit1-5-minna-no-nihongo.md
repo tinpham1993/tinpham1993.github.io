@@ -35,3 +35,25 @@ tags: JLPT-N5 Kanji
 
 |**Bài 4**|||
 |---|---|---|---|
+|起きます- KHỞI|今 - KIM|晩 (夜) - VÃN (DẠ)|木曜日 - MỘC DIỆU NHẬT                  |
+|寝ます - TẨM|~時 - THỜI|今晩 - KIM VÃN|金曜日 - KIM DIỆU NHẬT                     |
+|働きます - ĐỘNG|~分 - PHÂN|休み - HƯU|土曜日 - THỔ DIỆU NHẬT                       |
+|休みます - HƯU|半 - BÁN|昼休み - TRÚ HƯU|日曜日 - NHẬT DIỆU NHẬT                   |
+|勉強します - MIỄN CƯỜNG|何時 - HÀ THỜI|毎朝 - MỖI TRIỀU|何曜日 - HÀ DIỆU NHẬT       |
+|終わります - CHUNG|何分 - HÀ PHÂN|毎晩 - MỖI VÃN|番号 - PHIÊN HIỆU                  |
+|銀行 - NGÂN HÀNH|午前 - NGỌ TIỀN|毎日 - MỖI NHẬT|何番 - HÀ PHIÊN                 |
+|郵便局 - BƯU TIỆN CỤC|午後 - NGỌ HẬU|月曜日 - NGUYỆT DIỆU NHẬT|大変ですね - ĐẠI BIẾN|
+|図書館 - ĐỒ THƯ QUÁN|朝 - TRIỀU|火曜日 - HỎA DIỆU NHẬT|お願いします - NGUYỆN         |
+|美術館 - MỸ THUẬT QUÁN|昼 - TRÚ|水曜日 - THỦY DIỆU NHẬT|                         |
+
+|**Bài 5**|||
+|---|---|---|---|
+|行きます - HÀNH|新幹線 - TÂN CÁN TUYẾN|先週 - TIÊN CHU|~日 - NHẬT |
+|来ます - LAI|自転車 - TỰ CHUYỂN XA|今週 - KIM CHU|何日 - HÀ NHẬT |
+|帰ります - QUY|歩いて - BỘ|来週 - LAI CHU|誕生日 - ĐẢN SINH NHẬT   |
+|学校 - HỌC HIỆU|人 - NHÂN|今月 - KIM NGUYỆT|普通 - PHỔ THÔNG   |
+|駅 - DỊCH|友達 - HỮU ĐẠT|来月 - LAI NGUYỆT|急行 - CẤP HÀNH     |
+|飛行機 - PHI HÀNH CƠ|彼 - BỈ|去年 - KHỨ NIÊN|特急 - ĐẶC CẤP     |
+|船 - THUYỀN|彼女 - BỈ NỮ|来年 - LAI NIÊN|次の - THỨ             |
+|電車 - ĐIỆN XA|家族 - GIA TỘC|~月 - NGUYỆT|~番線 - PHIÊN TUYẾN |
+|地下鉄 - ĐỊA HẠ THIẾT|一人で - NHẤT NHÂN|何月 - HÀ NGUYỆT|      |
