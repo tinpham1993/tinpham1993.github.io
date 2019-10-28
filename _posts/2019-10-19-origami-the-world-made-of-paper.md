@@ -8,11 +8,6 @@ comments: 5
 ---
 
 **This is my origami gallery in [Flickr](https://www.flickr.com)**  
-[url=https://flic.kr/p/K2MRsE][img]https://live.staticflickr.com/8822/28243603942_09dfa907c1_k.jpg[/img][/url][url=https://flic.kr/p/K2MRsE]American Cocker Spaniel - KamiyaSatoshi[/url] by [url=https://www.flickr.com/photos/141891522@N06/]Ladvilol 130[/url], on Flickr
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/141891522@N06/28243603942/in/album-72157668273670296/" title="American Cocker Spaniel - KamiyaSatoshi"><img src="https://live.staticflickr.com/8822/28243603942_d4255c77b2.jpg" width="500" height="281" alt="American Cocker Spaniel - KamiyaSatoshi"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/141891522@N06/28243603942/in/album-72157668273670296/" title="American Cocker Spaniel - KamiyaSatoshi"><img src="https://live.staticflickr.com/8822/28243603942_d4255c77b2.jpg" width="500" height="281" alt="American Cocker Spaniel - KamiyaSatoshi"></a>
 
 Loggerhead Sea Turtle - Kamiya Satoshi  
 Folded by me (14/07/2018)  
