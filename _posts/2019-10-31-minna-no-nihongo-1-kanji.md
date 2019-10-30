@@ -6,10 +6,8 @@ categories: Nihongo
 tags: JLPT-N5 Kanji
 comments: 5
 ---
-<!DOCTYPE html>
 <html>
 <head>
-<title>Minna no Nihongo 1 - Kanji</title>
 <style>
 table, th, td {
   border: 1px solid black;  
