@@ -19,8 +19,6 @@ th, td {
 </style>
 </head>
 <body>
-
-<h2>Giáo trình Minna no Nihongo Shokyuu 1 - Kanji</h2>
 <p>(Click vào ví dụ để biết cách đọc)</p>
 
 <h3>Bài 1</h3>
