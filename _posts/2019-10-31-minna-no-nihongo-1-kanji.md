@@ -44,7 +44,6 @@ th, td {
 </head>
 <body>
 
-<h2>Minna no Nihongo 1 - Kanji</h2>
 <p>(Click vào Hán tự để xem cách nhớ - tham khảo https://j-dict.com/)</p>
 <p>(Click vào ví dụ để biết cách đọc)</p>
 
